@@ -52,6 +52,7 @@ Certified Software Tester with over 6 years of commercial experience in Universi
 * [Testowanie oprogramowania. Podręcznik dla początkujących ](https://helion.pl/ksiazki/testowanie-oprogramowania-podrecznik-dla-poczatkujacych-rafal-pawlak,szteop.htm?_ga=NC.1384359092-1587824560&abpar1=desktop&abpar2=236563.1746781.&abpcid=41&abpid=11&bb_coid=3069019&bb_id=3#format/d)
 * [Testuj oprogramowanie jak Google. Metody automatyzacji ](https://helion.pl/ksiazki/testuj-oprogramowanie-jak-google-metody-automatyzacji-james-a-whittaker-jason-arbon-jeff-carollo,teopgo.htm?_ga=NC.8248156519-1587824599&abpar1=desktop&abpar2=227754.1746781.&abpcid=41&abpid=11&bb_coid=3080973&bb_id=3#format/e)
 * [Scrum i nie tylko. Teoria i praktyka w metodach Agile ](https://ksiegarnia.pwn.pl/Scrum-i-nie-tylko.-Teoria-i-praktyka-w-metodach-Agile,618699036,p.html?abpid=11&abpcid=132&bb_id=3&bb_coid=7432964&abpar1=desktop&abpar2=4143114.1746781.&p_action=3206410001&utm_source=a4b&utm_medium=referral&utm_campaign=lc-buybox-wszystkie&_ga=NC.9284813805-1587824711)
+* Zawód tester
 
 ## Groups for knowledge gathering
 
