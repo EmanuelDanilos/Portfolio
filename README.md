@@ -19,13 +19,13 @@ Certified Software Tester with over 6 years of commercial experience in Universi
 * Languages: Java, Javascript (Test Automation)
 * Testing: Selenium, TestNG, JUnit, Mocha, Postman, Rest Assured, ARC, CSS Selectors, XPATH, Webmethods, Webservices, XML, REST
 * Frameworks: Angular, CAS, ExtJS, Hibernate, JSF, Microsoft Silverlight, Redux, Spring, Vaadin, .NET
-* Version Control Systems: Bitbucket, Git, Gitlab, SVN
+* Version Control Systems: Bitbucket, Git, GitHub/Gitlab
 * CI: Jenkins, TeamCity
 * Other tools: Confluence, JIRA, Redmine, Trello, TestLink, Maven, Node.js, npm/yarn
 
 ## Courses
 
-* Applying the Lambda Architecture with Spark, Kafka, and Cassandra
+* Wprowadzenie do Git i GitHub - Udemy, Bartłomiej Borowczyk (Samuraj Programowania)
 * Automatyzacja testów Selenium WebDriver
 * Bazy danych – podstawy projektowania relacyjnych baz danych
 * Beginning Data Exploration and Analysis with Apache Spark
