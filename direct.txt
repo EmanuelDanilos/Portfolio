@@ -1,0 +1,3 @@
+direct.txt
+plik1
+plik2
